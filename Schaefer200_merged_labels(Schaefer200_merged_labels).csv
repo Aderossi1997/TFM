@@ -1,0 +1,201 @@
+ROI Label,ROI Name,R,A,S,Label Name,Network Name,Full Component Name
+1,17Networks_LH_VisCent_ExStr_1,-26,-78,-14,17Networks_LH_VisCent_ExStr,central visual,extrastriate cortex
+2,17Networks_LH_VisCent_ExStr_2,-26,-96,-12,17Networks_LH_VisCent_ExStr,central visual,extrastriate cortex
+3,17Networks_LH_VisCent_Striate_1,-6,-92,-4,17Networks_LH_VisCent_Striate,central visual  ,striate cortex
+4,17Networks_LH_VisCent_ExStr_3,-22,-96,6,17Networks_LH_VisCent_ExStr,central visual,extrastriate cortex
+5,17Networks_LH_VisCent_ExStr_4,-40,-84,10,17Networks_LH_VisCent_ExStr,central visual,extrastriate cortex
+6,17Networks_LH_VisCent_ExStr_5,-24,-88,24,17Networks_LH_VisCent_ExStr,central visual,extrastriate cortex
+7,17Networks_LH_VisPeri_ExStrInf_1,-24,-54,-10,17Networks_LH_VisPeri_ExStrInf,peripheral visual,extra-striate inferior
+8,17Networks_LH_VisPeri_ExStrInf_2,-10,-68,-4,17Networks_LH_VisPeri_ExStrInf,peripheral visual,extra-striate inferior
+9,17Networks_LH_VisPeri_ExStrInf_3,-14,-44,-2,17Networks_LH_VisPeri_ExStrInf,peripheral visual,extra-striate inferior
+10,17Networks_LH_VisPeri_StriCal_1,-12,-70,8,17Networks_LH_VisPeri_StriCal,peripheral visual ,striate calcarine
+11,17Networks_LH_VisPeri_ExStrSup_1,-12,-72,22,17Networks_LH_VisPeri_ExStrSup,peripheral visual,extra-striate superior
+12,17Networks_LH_VisPeri_ExStrSup_2,-6,-88,28,17Networks_LH_VisPeri_ExStrSup,peripheral visual,extra-striate superior
+13,17Networks_LH_SomMotA_1,-8,-12,46,17Networks_LH_SomMotA,somatomotor A,somatomotor A
+14,17Networks_LH_SomMotA_2,-48,-28,56,17Networks_LH_SomMotA,somatomotor A,somatomotor A
+15,17Networks_LH_SomMotA_3,-40,-26,56,17Networks_LH_SomMotA,somatomotor A,somatomotor A
+16,17Networks_LH_SomMotA_4,-32,-22,64,17Networks_LH_SomMotA,somatomotor A,somatomotor A
+17,17Networks_LH_SomMotA_5,-26,-38,68,17Networks_LH_SomMotA,somatomotor A,somatomotor A
+18,17Networks_LH_SomMotA_6,-20,-10,68,17Networks_LH_SomMotA,somatomotor A,somatomotor A
+19,17Networks_LH_SomMotA_7,-4,-32,66,17Networks_LH_SomMotA,somatomotor A,somatomotor A
+20,17Networks_LH_SomMotA_8,-20,-30,68,17Networks_LH_SomMotA,somatomotor A,somatomotor A
+21,17Networks_LH_SomMotB_Aud_1,-50,-4,-2,17Networks_LH_SomMotB_Aud,somatomotor B,auditory
+22,17Networks_LH_SomMotB_Aud_2,-54,-24,10,17Networks_LH_SomMotB_Aud,somatomotor B,auditory
+23,17Networks_LH_SomMotB_S2_1,-36,-22,16,17Networks_LH_SomMotB_S2,somatomotor B,S2
+24,17Networks_LH_SomMotB_S2_2,-56,-4,10,17Networks_LH_SomMotB_S2,somatomotor B,S2
+25,17Networks_LH_SomMotB_Aud_3,-56,-40,20,17Networks_LH_SomMotB_Aud,somatomotor B,auditory
+26,17Networks_LH_SomMotB_S2_3,-52,-22,18,17Networks_LH_SomMotB_S2,somatomotor B,S2
+27,17Networks_LH_SomMotB_Cent_1,-56,-8,30,17Networks_LH_SomMotB_Cent,somatomotor B,central 
+28,17Networks_LH_SomMotB_Cent_2,-48,-8,46,17Networks_LH_SomMotB_Cent,somatomotor B,central 
+29,17Networks_LH_DorsAttnA_TempOcc_1,-44,-48,-20,17Networks_LH_DorsAttnA_TempOcc,dorsal attention A,temporal occipital
+30,17Networks_LH_DorsAttnA_TempOcc_2,-46,-70,-8,17Networks_LH_DorsAttnA_TempOcc,dorsal attention A,temporal occipital
+31,17Networks_LH_DorsAttnA_ParOcc_1,-48,-70,10,17Networks_LH_DorsAttnA_ParOcc,dorsal attention A,parietal occipital
+32,17Networks_LH_DorsAttnA_SPL_1,-26,-70,38,17Networks_LH_DorsAttnA_SPL,dorsal attention A,superior parietal lobule
+33,17Networks_LH_DorsAttnA_SPL_2,-16,-72,54,17Networks_LH_DorsAttnA_SPL,dorsal attention A,superior parietal lobule
+34,17Networks_LH_DorsAttnA_SPL_3,-30,-60,60,17Networks_LH_DorsAttnA_SPL,dorsal attention A,superior parietal lobule
+35,17Networks_LH_DorsAttnB_PostC_1,-54,-26,42,17Networks_LH_DorsAttnB_PostC,dorsal attention B,post central
+36,17Networks_LH_DorsAttnB_PostC_2,-40,-36,48,17Networks_LH_DorsAttnB_PostC,dorsal attention B,post central
+37,17Networks_LH_DorsAttnB_PostC_3,-30,-46,62,17Networks_LH_DorsAttnB_PostC,dorsal attention B,post central
+38,17Networks_LH_DorsAttnB_PostC_4,-18,-54,68,17Networks_LH_DorsAttnB_PostC,dorsal attention B,post central
+39,17Networks_LH_DorsAttnB_FEF_1,-32,-4,54,17Networks_LH_DorsAttnB_FEF,dorsal attention B,frontal eye fields
+40,17Networks_LH_SalVentAttnA_ParOper_1,-62,-26,28,17Networks_LH_SalVentAttnA_ParOper,salience / ventral attention A,parietal operculum
+41,17Networks_LH_SalVentAttnA_Ins_1,-40,-4,-4,17Networks_LH_SalVentAttnA_Ins,salience / ventral attention A,insula
+42,17Networks_LH_SalVentAttnA_FrOper_1,-38,0,10,17Networks_LH_SalVentAttnA_FrOper,salience / ventral attention A,frontal operculum 
+43,17Networks_LH_SalVentAttnA_FrOper_2,-52,8,10,17Networks_LH_SalVentAttnA_FrOper,salience / ventral attention A,frontal operculum 
+44,17Networks_LH_SalVentAttnA_ParMed_1,-12,-36,46,17Networks_LH_SalVentAttnA_ParMed,salience / ventral attention A,parietal medial
+45,17Networks_LH_SalVentAttnA_FrMed_1,-6,10,42,17Networks_LH_SalVentAttnA_FrMed,salience / ventral attention A,frontal medial
+46,17Networks_LH_SalVentAttnA_FrMed_2,-6,-2,66,17Networks_LH_SalVentAttnA_FrMed,salience / ventral attention A,frontal medial
+47,17Networks_LH_SalVentAttnB_IPL_1,-60,-40,36,17Networks_LH_SalVentAttnB_IPL,salience / ventral attention B,inferior parietal lobule
+48,17Networks_LH_SalVentAttnB_PFCl_1,-28,42,32,17Networks_LH_SalVentAttnB_PFCl,salience / ventral attention B,lateral prefrontal cortex
+49,17Networks_LH_SalVentAttnB_Ins_1,-34,20,6,17Networks_LH_SalVentAttnB_Ins,salience / ventral attention B,insula
+50,17Networks_LH_SalVentAttnB_PFCmp_1,-6,30,24,17Networks_LH_SalVentAttnB_PFCmp,salience / ventral attention B, medial posterior prefrontal cortex
+51,17Networks_LH_LimbicB_OFC_1,-24,22,-20,17Networks_LH_LimbicB_OFC,limbic B,orbital frontal cortex
+52,17Networks_LH_LimbicB_OFC_2,-10,36,-20,17Networks_LH_LimbicB_OFC,limbic B,orbital frontal cortex
+53,17Networks_LH_LimbicA_TempPole_1,-30,-6,-40,17Networks_LH_LimbicA_TempPole,limbic A,temporal pole
+54,17Networks_LH_LimbicA_TempPole_2,-44,-20,-30,17Networks_LH_LimbicA_TempPole,limbic A,temporal pole
+55,17Networks_LH_LimbicA_TempPole_3,-28,10,-34,17Networks_LH_LimbicA_TempPole,limbic A,temporal pole
+56,17Networks_LH_LimbicA_TempPole_4,-42,8,-18,17Networks_LH_LimbicA_TempPole,limbic A,temporal pole
+57,17Networks_LH_ContA_Temp_1,-56,-60,-2,17Networks_LH_ContA_Temp,control A,temporal
+58,17Networks_LH_ContA_IPS_1,-34,-62,48,17Networks_LH_ContA_IPS,control A,intraparietal sulcus
+59,17Networks_LH_ContA_IPS_2,-46,-42,46,17Networks_LH_ContA_IPS,control A,intraparietal sulcus
+60,17Networks_LH_ContA_IPS_3,-32,-48,46,17Networks_LH_ContA_IPS,control A,intraparietal sulcus
+61,17Networks_LH_ContA_PFCd_1,-22,6,62,17Networks_LH_ContA_PFCd,control A,dorsal prefrontal cortex
+62,17Networks_LH_ContA_PFClv_1,-42,40,16,17Networks_LH_ContA_PFClv,control A,lateral ventral prefrontal cortex
+63,17Networks_LH_ContA_PFCl_1,-44,20,28,17Networks_LH_ContA_PFCl,control A,lateral prefrontal cortex
+64,17Networks_LH_ContA_PFCl_2,-48,6,28,17Networks_LH_ContA_PFCl,control A,lateral prefrontal cortex
+65,17Networks_LH_ContA_PFCl_3,-42,6,44,17Networks_LH_ContA_PFCl,control A,lateral prefrontal cortex
+66,17Networks_LH_ContA_Cingm_1,-4,4,30,17Networks_LH_ContA_Cingm,control A,mid-cingulate
+67,17Networks_LH_ContB_Temp_1,-60,-42,-14,17Networks_LH_ContB_Temp,control B,temporal
+68,17Networks_LH_ContB_IPL_1,-54,-50,46,17Networks_LH_ContB_IPL,control B,inferior parietal lobule
+69,17Networks_LH_ContB_PFCl_1,-40,18,50,17Networks_LH_ContB_PFCl,control B,lateral prefrontal cortex
+70,17Networks_LH_ContB_PFClv_1,-42,50,-6,17Networks_LH_ContB_PFClv,control B,lateral ventral prefrontal cortex
+71,17Networks_LH_ContB_PFClv_2,-28,58,8,17Networks_LH_ContB_PFClv,control B,lateral ventral prefrontal cortex
+72,17Networks_LH_ContC_pCun_1,-10,-74,38,17Networks_LH_ContC_pCun,control C,precuneus
+73,17Networks_LH_ContC_pCun_2,-6,-60,56,17Networks_LH_ContC_pCun,control C,precuneus
+74,17Networks_LH_ContC_Cingp_1,-4,-28,28,17Networks_LH_ContC_Cingp,control C,cingulate posterior
+75,17Networks_LH_DefaultA_IPL_1,-46,-66,38,17Networks_LH_DefaultA_IPL,default A,inferior parietal lobule
+76,17Networks_LH_DefaultA_PFCd_1,-24,24,48,17Networks_LH_DefaultA_PFCd,default A,dorsal prefrontal cortex
+77,17Networks_LH_DefaultA_pCunPCC_1,-6,-54,28,17Networks_LH_DefaultA_pCunPCC,default A,precuneus posterior cingulate cortex
+78,17Networks_LH_DefaultA_pCunPCC_2,-4,-30,36,17Networks_LH_DefaultA_pCunPCC,default A,precuneus posterior cingulate cortex
+79,17Networks_LH_DefaultA_pCunPCC_3,-6,-54,42,17Networks_LH_DefaultA_pCunPCC,default A,precuneus posterior cingulate cortex
+80,17Networks_LH_DefaultA_PFCm_1,-6,36,-10,17Networks_LH_DefaultA_PFCm,default A,medial prefrontal cortex
+81,17Networks_LH_DefaultA_PFCm_2,-12,64,-6,17Networks_LH_DefaultA_PFCm,default A,medial prefrontal cortex
+82,17Networks_LH_DefaultA_PFCm_3,-6,44,8,17Networks_LH_DefaultA_PFCm,default A,medial prefrontal cortex
+83,17Networks_LH_DefaultB_Temp_1,-46,8,-32,17Networks_LH_DefaultB_Temp,default B,temporal
+84,17Networks_LH_DefaultB_Temp_2,-60,-18,-22,17Networks_LH_DefaultB_Temp,default B,temporal
+85,17Networks_LH_DefaultB_Temp_3,-56,-6,-12,17Networks_LH_DefaultB_Temp,default B,temporal
+86,17Networks_LH_DefaultB_Temp_4,-58,-30,-4,17Networks_LH_DefaultB_Temp,default B,temporal
+87,17Networks_LH_DefaultB_IPL_1,-58,-54,28,17Networks_LH_DefaultB_IPL,default B,inferior parietal lobule
+88,17Networks_LH_DefaultB_PFCd_1,-8,60,20,17Networks_LH_DefaultB_PFCd,default B,dorsal prefrontal cortex
+89,17Networks_LH_DefaultB_PFCd_2,-12,48,44,17Networks_LH_DefaultB_PFCd,default B,dorsal prefrontal cortex
+90,17Networks_LH_DefaultB_PFCd_3,-4,34,44,17Networks_LH_DefaultB_PFCd,default B,dorsal prefrontal cortex
+91,17Networks_LH_DefaultB_PFCd_4,-10,16,64,17Networks_LH_DefaultB_PFCd,default B,dorsal prefrontal cortex
+92,17Networks_LH_DefaultB_PFCv_1,-34,20,-14,17Networks_LH_DefaultB_PFCv,default B,ventral prefrontal cortex
+93,17Networks_LH_DefaultB_PFCv_2,-32,42,-14,17Networks_LH_DefaultB_PFCv,default B,ventral prefrontal cortex
+94,17Networks_LH_DefaultB_PFCv_3,-46,30,-8,17Networks_LH_DefaultB_PFCv,default B,ventral prefrontal cortex
+95,17Networks_LH_DefaultB_PFCv_4,-52,22,8,17Networks_LH_DefaultB_PFCv,default B,ventral prefrontal cortex
+96,17Networks_LH_DefaultC_IPL_1,-38,-80,32,17Networks_LH_DefaultC_IPL,default C,inferior parietal lobule
+97,17Networks_LH_DefaultC_Rsp_1,-10,-56,12,17Networks_LH_DefaultC_Rsp,default C,retrosplenial 
+98,17Networks_LH_DefaultC_PHC_1,-26,-32,-18,17Networks_LH_DefaultC_PHC,default C,parahippocampal cortex
+99,17Networks_LH_TempPar_1,-58,-42,8,17Networks_LH_TempPar,temporal parietal,temporal parietal
+100,17Networks_LH_TempPar_2,-48,-58,18,17Networks_LH_TempPar,temporal parietal,temporal parietal
+101,17Networks_RH_VisCent_ExStr_1,28,-68,-12,17Networks_RH_VisCent_ExStr,central visual,extrastriate cortex
+102,17Networks_RH_VisCent_ExStr_2,48,-72,-6,17Networks_RH_VisCent_ExStr,central visual,extrastriate cortex
+103,17Networks_RH_VisCent_Striate_1,12,-92,-6,17Networks_RH_VisCent_Striate,central visual,striate cortex
+104,17Networks_RH_VisCent_ExStr_3,30,-94,-4,17Networks_RH_VisCent_ExStr,central visual,extrastriate cortex
+105,17Networks_RH_VisCent_ExStr_4,42,-80,10,17Networks_RH_VisCent_ExStr,central visual,extrastriate cortex
+106,17Networks_RH_VisCent_ExStr_5,20,-90,22,17Networks_RH_VisCent_ExStr,central visual,extrastriate cortex
+107,17Networks_RH_VisPeri_ExStrInf_1,12,-64,-4,17Networks_RH_VisPeri_ExStrInf,peripheral visual,extra-striate inferior
+108,17Networks_RH_VisPeri_ExStrInf_2,16,-46,-2,17Networks_RH_VisPeri_ExStrInf,peripheral visual,extra-striate inferior
+109,17Networks_RH_VisPeri_StriCal_1,8,-76,8,17Networks_RH_VisPeri_StriCal,peripheral visual,striate calcarine
+110,17Networks_RH_VisPeri_ExStrSup_1,22,-60,8,17Networks_RH_VisPeri_ExStrSup,peripheral visual,extra-striate superior
+111,17Networks_RH_VisPeri_ExStrSup_2,10,-74,26,17Networks_RH_VisPeri_ExStrSup,peripheral visual,extra-striate superior
+112,17Networks_RH_VisPeri_ExStrSup_3,16,-84,40,17Networks_RH_VisPeri_ExStrSup,peripheral visual,extra-striate superior
+113,17Networks_RH_SomMotA_1,52,-22,52,17Networks_RH_SomMotA,somatomotor A,somatomotor A
+114,17Networks_RH_SomMotA_2,46,-12,48,17Networks_RH_SomMotA,somatomotor A,somatomotor A
+115,17Networks_RH_SomMotA_3,6,-10,52,17Networks_RH_SomMotA,somatomotor A,somatomotor A
+116,17Networks_RH_SomMotA_4,40,-24,58,17Networks_RH_SomMotA,somatomotor A,somatomotor A
+117,17Networks_RH_SomMotA_5,32,-40,64,17Networks_RH_SomMotA,somatomotor A,somatomotor A
+118,17Networks_RH_SomMotA_6,34,-20,66,17Networks_RH_SomMotA,somatomotor A,somatomotor A
+119,17Networks_RH_SomMotA_7,28,-34,66,17Networks_RH_SomMotA,somatomotor A,somatomotor A
+120,17Networks_RH_SomMotA_8,22,-8,68,17Networks_RH_SomMotA,somatomotor A,somatomotor A
+121,17Networks_RH_SomMotA_9,10,-40,70,17Networks_RH_SomMotA,somatomotor A,somatomotor A
+122,17Networks_RH_SomMotA_10,6,-22,68,17Networks_RH_SomMotA,somatomotor A,somatomotor A
+123,17Networks_RH_SomMotA_11,20,-30,70,17Networks_RH_SomMotA,somatomotor A,somatomotor A
+124,17Networks_RH_SomMotB_Aud_1,52,-14,4,17Networks_RH_SomMotB_Aud,somatomotor B,auditory
+125,17Networks_RH_SomMotB_Aud_2,64,-24,8,17Networks_RH_SomMotB_Aud,somatomotor B,auditory
+126,17Networks_RH_SomMotB_S2_1,38,-14,14,17Networks_RH_SomMotB_S2,somatomotor B,S2
+127,17Networks_RH_SomMotB_S2_2,44,-28,18,17Networks_RH_SomMotB_S2,somatomotor B,S2
+128,17Networks_RH_SomMotB_S2_3,60,0,10,17Networks_RH_SomMotB_S2,somatomotor B,S2
+129,17Networks_RH_SomMotB_S2_4,56,-12,14,17Networks_RH_SomMotB_S2,somatomotor B,S2
+130,17Networks_RH_SomMotB_Cent_1,58,-4,30,17Networks_RH_SomMotB_Cent,somatomotor B,central 
+131,17Networks_RH_DorsAttnA_TempOcc_1,50,-54,-16,17Networks_RH_DorsAttnA_TempOcc,dorsal attention A,temporal occipital
+132,17Networks_RH_DorsAttnA_ParOcc_1,52,-60,10,17Networks_RH_DorsAttnA_ParOcc,dorsal attention A,parietal occipital
+133,17Networks_RH_DorsAttnA_SPL_1,32,-74,32,17Networks_RH_DorsAttnA_SPL,dorsal attention A,superior parietal lobule
+134,17Networks_RH_DorsAttnA_SPL_2,14,-74,52,17Networks_RH_DorsAttnA_SPL,dorsal attention A,superior parietal lobule
+135,17Networks_RH_DorsAttnA_SPL_3,34,-48,50,17Networks_RH_DorsAttnA_SPL,dorsal attention A,superior parietal lobule
+136,17Networks_RH_DorsAttnA_SPL_4,26,-62,58,17Networks_RH_DorsAttnA_SPL,dorsal attention A,superior parietal lobule
+137,17Networks_RH_DorsAttnB_PostC_1,60,-16,34,17Networks_RH_DorsAttnB_PostC,dorsal attention B,post central
+138,17Networks_RH_DorsAttnB_PostC_2,42,-32,46,17Networks_RH_DorsAttnB_PostC,dorsal attention B,post central
+139,17Networks_RH_DorsAttnB_PostC_3,8,-56,62,17Networks_RH_DorsAttnB_PostC,dorsal attention B,post central
+140,17Networks_RH_DorsAttnB_PostC_4,22,-48,70,17Networks_RH_DorsAttnB_PostC,dorsal attention B,post central
+141,17Networks_RH_DorsAttnB_FEF_1,34,-4,52,17Networks_RH_DorsAttnB_FEF,dorsal attention B,frontal eye fields
+142,17Networks_RH_SalVentAttnA_ParOper_1,60,-26,28,17Networks_RH_SalVentAttnA_ParOper,salience / ventral attention A,parietal operculum
+143,17Networks_RH_SalVentAttnA_PrC_1,50,4,40,17Networks_RH_SalVentAttnA_PrC,salience / ventral attention A,precentral 
+144,17Networks_RH_SalVentAttnA_Ins_1,40,6,-16,17Networks_RH_SalVentAttnA_Ins,salience / ventral attention A,insula
+145,17Networks_RH_SalVentAttnA_Ins_2,46,-4,-4,17Networks_RH_SalVentAttnA_Ins,salience / ventral attention A,insula
+146,17Networks_RH_SalVentAttnA_FrOper_1,44,6,4,17Networks_RH_SalVentAttnA_FrOper,salience / ventral attention A,frontal operculum 
+147,17Networks_RH_SalVentAttnA_FrMed_1,8,10,42,17Networks_RH_SalVentAttnA_FrMed,salience / ventral attention A,frontal medial
+148,17Networks_RH_SalVentAttnA_ParMed_1,10,-16,42,17Networks_RH_SalVentAttnA_ParMed,salience / ventral attention A,parietal medial
+149,17Networks_RH_SalVentAttnA_ParMed_2,10,-36,46,17Networks_RH_SalVentAttnA_ParMed,salience / ventral attention A,parietal medial
+150,17Networks_RH_SalVentAttnA_FrMed_2,8,4,66,17Networks_RH_SalVentAttnA_FrMed,salience / ventral attention A,frontal medial
+151,17Networks_RH_SalVentAttnB_IPL_1,62,-38,36,17Networks_RH_SalVentAttnB_IPL,salience / ventral attention B,inferior parietal lobule
+152,17Networks_RH_SalVentAttnB_PFClv_1,44,44,10,17Networks_RH_SalVentAttnB_PFClv,salience / ventral attention B,lateral ventral prefrontal cortex
+153,17Networks_RH_SalVentAttnB_PFCl_1,30,48,28,17Networks_RH_SalVentAttnB_PFCl,salience / ventral attention B,lateral prefrontal cortex
+154,17Networks_RH_SalVentAttnB_Ins_1,34,22,-8,17Networks_RH_SalVentAttnB_Ins,salience / ventral attention B,insula
+155,17Networks_RH_SalVentAttnB_Ins_2,36,24,4,17Networks_RH_SalVentAttnB_Ins,salience / ventral attention B,insula
+156,17Networks_RH_SalVentAttnB_PFCmp_1,8,30,28,17Networks_RH_SalVentAttnB_PFCmp,salience / ventral attention B,medial posterior prefrontal cortex
+157,17Networks_RH_LimbicB_OFC_1,12,38,-22,17Networks_RH_LimbicB_OFC,limbic B,orbital frontal cortex
+158,17Networks_RH_LimbicB_OFC_2,28,22,-20,17Networks_RH_LimbicB_OFC,limbic B,orbital frontal cortex
+159,17Networks_RH_LimbicB_OFC_3,4,36,-14,17Networks_RH_LimbicB_OFC,limbic B,orbital frontal cortex
+160,17Networks_RH_LimbicB_OFC_4,14,64,-8,17Networks_RH_LimbicB_OFC,limbic B,orbital frontal cortex
+161,17Networks_RH_LimbicA_TempPole_1,30,8,-38,17Networks_RH_LimbicA_TempPole,limbic A,temporal pole
+162,17Networks_RH_LimbicA_TempPole_2,46,-12,-34,17Networks_RH_LimbicA_TempPole,limbic A,temporal pole
+163,17Networks_RH_LimbicA_TempPole_3,26,-10,-32,17Networks_RH_LimbicA_TempPole,limbic A,temporal pole
+164,17Networks_RH_LimbicA_TempPole_4,38,-34,-24,17Networks_RH_LimbicA_TempPole,limbic A,temporal pole
+165,17Networks_RH_ContA_IPS_1,38,-62,48,17Networks_RH_ContA_IPS,control A,intraparietal sulcus
+166,17Networks_RH_ContA_IPS_2,46,-38,50,17Networks_RH_ContA_IPS,control A,intraparietal sulcus
+167,17Networks_RH_ContA_PFCd_1,26,8,58,17Networks_RH_ContA_PFCd,control A,dorsal prefrontal cortex
+168,17Networks_RH_ContA_PFCl_1,52,10,20,17Networks_RH_ContA_PFCl,control A,lateral prefrontal cortex
+169,17Networks_RH_ContA_PFCl_2,46,24,26,17Networks_RH_ContA_PFCl,control A,lateral prefrontal cortex
+170,17Networks_RH_ContA_Cingm_1,4,2,30,17Networks_RH_ContA_Cingm,control A,mid-cingulate
+171,17Networks_RH_ContB_Temp_1,60,-12,-20,17Networks_RH_ContB_Temp,control B,temporal
+172,17Networks_RH_ContB_Temp_2,62,-42,-12,17Networks_RH_ContB_Temp,control B,temporal
+173,17Networks_RH_ContB_IPL_1,50,-58,44,17Networks_RH_ContB_IPL,control B,inferior parietal lobule
+174,17Networks_RH_ContB_IPL_2,52,-42,48,17Networks_RH_ContB_IPL,control B,inferior parietal lobule
+175,17Networks_RH_ContB_PFCld_1,40,34,38,17Networks_RH_ContB_PFCld,control B,lateral dorsal prefrontal cortex
+176,17Networks_RH_ContB_PFCld_2,42,14,48,17Networks_RH_ContB_PFCld,control B,lateral dorsal prefrontal cortex
+177,17Networks_RH_ContB_PFClv_1,36,46,-14,17Networks_RH_ContB_PFClv,control B,lateral ventral prefrontal cortex
+178,17Networks_RH_ContB_PFClv_2,30,58,4,17Networks_RH_ContB_PFClv,control B,lateral ventral prefrontal cortex
+179,17Networks_RH_ContB_PFCmp_1,8,24,56,17Networks_RH_ContB_PFCmp,control B,medial posterior prefrontal cortex
+180,17Networks_RH_ContB_PFCld_3,24,24,54,17Networks_RH_ContB_PFCld,control B,lateral dorsal prefrontal cortex
+181,17Networks_RH_ContC_pCun_1,14,-70,36,17Networks_RH_ContC_pCun,control C,precuneus
+182,17Networks_RH_ContC_pCun_2,6,-58,44,17Networks_RH_ContC_pCun,control C,precuneus
+183,17Networks_RH_ContC_Cingp_1,6,-24,30,17Networks_RH_ContC_Cingp,control C,cingulate posterior
+184,17Networks_RH_DefaultA_IPL_1,54,-50,28,17Networks_RH_DefaultA_IPL,default A,inferior parietal lobule
+185,17Networks_RH_DefaultA_PFCd_1,28,30,42,17Networks_RH_DefaultA_PFCd,default A,dorsal prefrontal cortex
+186,17Networks_RH_DefaultA_pCunPCC_1,6,-48,30,17Networks_RH_DefaultA_pCunPCC,default A,precuneus posterior cingulate cortex
+187,17Networks_RH_DefaultA_PFCm_1,8,42,4,17Networks_RH_DefaultA_PFCm,default A,medial prefrontal cortex
+188,17Networks_RH_DefaultA_PFCm_2,6,28,16,17Networks_RH_DefaultA_PFCm,default A,medial prefrontal cortex
+189,17Networks_RH_DefaultA_PFCm_3,8,58,18,17Networks_RH_DefaultA_PFCm,default A,medial prefrontal cortex
+190,17Networks_RH_DefaultB_Temp_1,62,-26,-6,17Networks_RH_DefaultB_Temp,default B,temporal
+191,17Networks_RH_DefaultB_AntTemp_1,48,12,-30,17Networks_RH_DefaultB_AntTemp,default B,anterior temporal
+192,17Networks_RH_DefaultB_PFCd_1,16,46,44,17Networks_RH_DefaultB_PFCd,default B,dorsal prefrontal cortex
+193,17Networks_RH_DefaultB_PFCv_1,50,28,0,17Networks_RH_DefaultB_PFCv,default B,ventral prefrontal cortex
+194,17Networks_RH_DefaultC_IPL_1,46,-70,28,17Networks_RH_DefaultC_IPL,default C,inferior parietal lobule
+195,17Networks_RH_DefaultC_Rsp_1,12,-54,14,17Networks_RH_DefaultC_Rsp,default C,retrosplenial 
+196,17Networks_RH_DefaultC_PHC_1,28,-36,-14,17Networks_RH_DefaultC_PHC,default C,parahippocampal cortex
+197,17Networks_RH_TempPar_1,54,-6,-10,17Networks_RH_TempPar,temporal parietal,temporal parietal
+198,17Networks_RH_TempPar_2,52,-32,2,17Networks_RH_TempPar,temporal parietal,temporal parietal
+199,17Networks_RH_TempPar_3,58,-46,10,17Networks_RH_TempPar,temporal parietal,temporal parietal
+200,17Networks_RH_TempPar_4,60,-38,16,17Networks_RH_TempPar,temporal parietal,temporal parietal
